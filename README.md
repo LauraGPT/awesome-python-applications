@@ -35,7 +35,7 @@ thereof), see Architectures. -->
 **Contents**
 
 1. <a href="#tag-internet">Internet</a> *(45)*
-1. <a href="#tag-audio">Audio</a> *(17)*
+1. <a href="#tag-audio">Audio</a> *(18)*
 1. <a href="#tag-video">Video</a> *(8)*
 1. <a href="#tag-ai">AI/ML</a> *(4)*
 1. <a href="#tag-graphics">Graphics</a> *(21)*
@@ -118,6 +118,7 @@ thereof), see Architectures. -->
   1. **Beets** - ([Repo](https://github.com/beetbox/beets), [Home](http://beets.io/), [PyPI](https://pypi.org/project/beets)) Feature-rich command-line music library manager with web UI, duplicate detection, transcoding, and tagging support, integrating with MusicBrainz, Discogs, and more. `(linux, windows, mac)`
   1. **Exaile** - ([Repo](https://github.com/exaile/exaile), [WP](https://en.wikipedia.org/wiki/Exaile)) Cross-platform audio player, tag editor, and library organizer. `(linux, windows, mac, gtk)`
   1. **Frescobaldi** - ([Repo](https://github.com/wbsoft/frescobaldi), [WP](https://en.wikipedia.org/wiki/Frescobaldi_%28software%29)) An editor for [LilyPond](https://en.wikipedia.org/wiki/LilyPond) music files. `(linux, windows, mac, qt)`
+  1. **FunASR** - ([Repo](https://github.com/modelscope/FunASR), [Home](https://www.funasr.com), [PyPI](https://pypi.org/project/funasr)) Industrial-grade speech recognition toolkit supporting 50+ languages with built-in VAD, punctuation, speaker diarization, emotion detection, and an OpenAI-compatible API server. `(linux, windows, mac, server)`
   1. **Friture** - ([Repo](https://github.com/tlecomte/friture), [Home](http://friture.org/)) Visualizes and analyzes live audio data in real-time, including scope, spectrum analyzer, rolling 2D spectrogram, and more. `(linux, windows, mac, qt5)`
   1. **Funkwhale** - ([Repo](https://dev.funkwhale.audio/funkwhale/funkwhale), [Home](https://www.funkwhale.audio/), [Docs](https://docs.funkwhale.audio/)) Web-based, community-driven project that lets you listen and share music and audio within a decentralized, open network. `(server)`
   1. **GNU Radio** - ([Repo](https://github.com/gnuradio/gnuradio), [Home](https://www.gnuradio.org/), [WP](https://en.wikipedia.org/wiki/GNU_Radio)) Software development toolkit that provides signal processing blocks to implement software-defined radios and signal-processing systems. `(linux, windows, mac, cpp, qt)`
